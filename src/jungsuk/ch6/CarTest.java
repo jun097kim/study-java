@@ -3,7 +3,7 @@ package jungsuk.ch6;
 /**
  * Created by jun097kim on 2017-09-25.
  */
-class Car {
+/*class Car {
     String color;
     String gearType;
     int door;
@@ -16,7 +16,7 @@ class Car {
         gearType = g;
         door = d;
     }
-}
+}*/
 
 public class CarTest {
     public static void main(String[] args) {
